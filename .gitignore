@@ -1,5 +1,4 @@
 # local env files
-.env.local
 .env.*.local
 
 # Log files
@@ -33,3 +32,5 @@ qywx.json
 .flattened-pom.xml
 /backend/crm/src/main/resources/static/
 /backend/app/src/main/resources/static/
+config.bat
+node_modules
